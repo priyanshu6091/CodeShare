@@ -1,5 +1,3 @@
-![logo](https://github.com/sahilatahar/Code-Sync/assets/100127570/d1ff7f52-a692-4d51-b281-358aeab9156e)
-
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
@@ -27,10 +25,6 @@ A collaborative, real-time code editor where users can seamlessly code together.
 -   🔠 Option to change font size and font family
 -   🎨 Multiple themes for personalized coding experience
 -   🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time, enhancing the interactive experience of your project.
-
-## 🚀 Live Preview
-
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
 
 ## 💻 Tech Stack
 
